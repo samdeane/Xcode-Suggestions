@@ -9,5 +9,5 @@ So rather than be unremittingly negative, I thought I'd create a place for peopl
 
 The only rule is be constructive. This isn't for reporting bugs, as such. If you've got a suggestion about how to improve "broken" or incomplete behaviour though, go ahead. If there is an associated rdar: link, go ahead and include it.
 
-See the [wiki](wiki) for more information.
+See the [wiki](Xcode-Suggestions/wiki) for more information.
 
